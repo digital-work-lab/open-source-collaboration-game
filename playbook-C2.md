@@ -6,7 +6,7 @@ A brief guide on how to contribute to the CoLRev project documentation is availa
 
 ## Your changes
 
-You decide to create a `getting-started`page and provide more information on how to install the CoLRev project. One thing you figured out is that CoLRev is a Python package that can be installed with the following command:
+You decide to create a `getting-started`pag e and provide more information on how to install the CoLRev project. One thing you figured out is that CoLRev is a Python package that can be installed with the following command:
 
 ```
 pip install colrev
