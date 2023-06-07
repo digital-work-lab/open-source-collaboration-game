@@ -14,10 +14,6 @@ pip install colrev
 
 However, you also want to provide more information on how to install Python, git, and Docker, which is required to run CoLRev. In addition to the installation command above, provide a link to the installation instructions of Python, git, and Docker.
 
-Python -> https://www.python.org
-Docker -> https://www.docker.com
-GitHubApp -> https://desktop.github.com
-
 Another thing you noticed is that some configuration may be required. For example, on your machine (Ubuntu/Linux), you had to run the following to give Docker the required permissions:
 
 ```
