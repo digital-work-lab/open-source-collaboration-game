@@ -7,7 +7,9 @@ The goals of this tutorial are to
 - Familiarize with the **key elements of open-source project documentation**
 
 <!-- 
-Note: use the GitHub web interface for simplicity
+Note:
+- use the GitHub web interface for simplicity (explain that it only allows you to edit one file at a time)
+- using the GitHub web interface does not depend on remote authentication of local clients (a potential source of errors) 
 TBD: learn how to push branches to a fork/change the remote?
 -->
 

@@ -17,7 +17,7 @@
 
 ## Optional steps (if time permits)
 
-- Create an issue tempalte (for bug reports): Settings -> Issues -> Issue templates -> Commit (and show the file that was created under `.github/ISSUE_TEMPLATE`)
+- Create an issue template (for bug reports): Settings -> Issues -> Issue templates -> Commit (and show the file that was created under `.github/ISSUE_TEMPLATE`)
 - Create a release: tags -> create a new release -> create tag upon release (by entering a tag-name in the "Choose a tag" field) - show the release on the main page
 - Mention the license file (`LICENSE.md`), which is also displayed on the right side of the main page
 

@@ -2,7 +2,8 @@
 
 - Read the playbook and prepare to complete the following subsection in front of the class (open the relevant websites in your browser).
 - Login to GitHub.
-- Switch roles after each subsection, and help each other if needed.
+- Select one maintainer who executes the steps on the computer.
+- The other maintainers explain what is happening (e.g., switching after each section) and help the first maintainer if needed.
 
 <!-- - Get the attention of the other groups before completing the following tasks. -->
 
