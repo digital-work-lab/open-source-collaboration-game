@@ -23,4 +23,4 @@ You figured out that the CoLRev project can be used to analyze interview data (n
 
 ```
 
-You want the CoLRev project to cover this type of data as well. Create a new page on "analyzing interview data".
+You want the CoLRev project to cover this type of data as well. Create a new page on "analyzing interview data" to suggest that the data above can be added to the workflow (in the `data/search` directory) and processed with the operations `colrev load`, `colrev prep`, etc..

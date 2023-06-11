@@ -20,6 +20,7 @@
 
 - Go to the pull requests
 - Upon reviewing the changes, ask the group to briefly summarize their work
+- Check whether the necessary header information is provided 
 - Assign the pull-requests to the remaining issus 
 
 ![pull-request link issue](figures/pull-request-link-issue.png)

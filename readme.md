@@ -74,6 +74,7 @@ Address comments
 -->
 
 - Each group updates the `nav_order` values and adds links to the other pages (the links are optional)
+- Group 7 has a [separate playbook](playbook-C7-r2.md)
 - The maintainers prepare for the next round
 
 ### Round 4 (Maintainers)

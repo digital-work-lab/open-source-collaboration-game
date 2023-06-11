@@ -6,7 +6,7 @@ A brief guide on how to contribute to the CoLRev project documentation is availa
 
 ## Your changes
 
-You have started to work with CoLRev and you noticed that the documentation is not complete. You decide to create a documentation page and provide an overview of the main classes and their functionality. You also want to provide a link to the documentation of the main classes.
+You have started to work with CoLRev and you noticed that the documentation is not complete. You decide to create a documentation page and provide an overview of the main classes and their functionality. You also want to provide a link to the source files of the main classes (in the [colrev/colrev](https://github.com/CoLRev-Environment/colrev/tree/main/colrev) directory).
 
 The main classes are:
 
