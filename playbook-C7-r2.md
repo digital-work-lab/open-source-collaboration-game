@@ -2,7 +2,7 @@
 
 ## Creating a fork
 
-You understand why the maintainers have declined your suggestions, but you are still convinced that they should be implemented. You decide to conduct active development on your fork. To do this, merge your changes into the main branch of your fork. 
+You understand why the maintainers have declined your suggestions, but you are still convinced that they should be implemented. You decide to conduct active development on your fork.
 
 ## Inviting others to contribute to your fork
 
