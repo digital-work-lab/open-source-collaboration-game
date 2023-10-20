@@ -9,10 +9,9 @@ You understand why the maintainers have declined your suggestions, but you are s
 Once the maintainers have completed their round, ask them to give you the stage (and beamer) for a few minutes.
 
 - Explain to the contributors that you decide to pursue a separate fork because you believe that the data input should not be overly restricted.
-- Show that you have merged your work.
 - State that you plan to integrate changes from the main repository, but that you will go forward with the support of other data types.
 - Point out that the "issue" tab is missing in forks by default.
-- Go to settings and activate the issues, which will be useful to coordinate your work.
+- Go to ``settings`` and activate the issues, which will be useful to coordinate your work.
 - Invite others to open pull requests and contribute to your fork.
 
 <!-- 
