@@ -29,7 +29,7 @@ Randomly give numbers to each group (starting with 1), ask to work on the follow
 -->
 
 - Create a [GitHub account](https://github.com/join)
-- Select two maintainers, form 7 teams (2-4 students each)
+- Select two maintainers, form up to 7 teams (1-3 students each)
 - Give the maintainers 5 minutes to prepare
 
 ### Round 1 (Maintainers)
@@ -38,12 +38,12 @@ Randomly give numbers to each group (starting with 1), ask to work on the follow
 
 ### Round 2 (Contributors)
 
-- Each group works in their issue based on the following playbooks:
+- Each group works in their issue based on the following playbooks (playbooks with 🎓 are sightly more challenging):
 
-    - [Playbook C1](playbook-C1.md) - Goals
+    - [Playbook C1](playbook-C1.md) - Goals 🎓
     - [Playbook C2](playbook-C2.md) - Getting started
     - [Playbook C3](playbook-C3.md) - Example
-    - [Playbook C4](playbook-C4.md) - Documentation
+    - [Playbook C4](playbook-C4.md) - Documentation 🎓
     - [Playbook C5](playbook-C5.md) - Contributing guidelines
     - [Playbook C6](playbook-C6.md) - FAQ
     - [Playbook C7](playbook-C7.md) - Using CoLRev for interview data
@@ -84,7 +84,6 @@ Address comments
 ### Round 5 (Clean-up)
 
 - Take notes on the changes that were introduced and the key elements of the GitHub/Open-Source workflow that were covered in this session
-- Delete your forks
 
 <!-- 
 Follow-up discussion:

@@ -11,7 +11,7 @@
 
 - Navigate to the [CoLRev project](https://github.com/CoLRev-Environment/colrev) and show the readme file (bottom of the page) to the class
 - Explain that the goal of the project provides a tool for the literature review process, covering the search, the selection of relevant papers, the retrieval of PDFs, and the synthesis.
-- State that the goal of the session is to create a documentation website for the project.
+- State that the **goal of the session is to create a documentation website for the CoLRev project**.
 - Usually, this would be done in the same repository, but in this case, we will create a new repository for the documentation.
 
 ## The repository
@@ -21,6 +21,7 @@
 - Click on "use the template" to create a new repository based on the template
 - Enter a name for the repository (`colrev-docs`) and click on "Create repository from template"
 - Explain that the repository is now created and that we can see the files in the repository
+- Share the link with the class (on the whiteboard)
 
 ## The hosting
 

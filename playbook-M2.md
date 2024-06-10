@@ -7,7 +7,7 @@
 ## Your plans
 
 - Get the attention of the other groups
-- Share your ideas (the three issues)
+- Share your ideas: the three issues your project should address
 
 ## Community contributions
 
