@@ -1,4 +1,4 @@
-# Playbook C2: CoLRev for interview data
+# Playbook C7: CoLRev for interview data
 
 ## The workflow
 
