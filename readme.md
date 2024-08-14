@@ -1,5 +1,7 @@
 # The Open-Source Collaboration Game
 
+![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-green.svg)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13323591.svg)](https://doi.org/10.5281/zenodo.13323591)
+
 The goals of this tutorial are to
 
 - Learn how to **use the collaboration features of Git**, including forks, pull requests, merges, and issues
@@ -94,3 +96,7 @@ Another case may be creating a handbook (using GitLab as an inspiration)
 -> Create an employer-onboarding template
 -> add yourself to a team...
 -->
+
+## License
+
+The contents are licensed under the [CC-BY 4.0 License](https://creativecommons.org/licenses/by/4.0/).
