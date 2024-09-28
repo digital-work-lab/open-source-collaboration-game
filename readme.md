@@ -1,6 +1,8 @@
 # The Open-Source Collaboration Game
 
-![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-green.svg)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13323591.svg)](https://doi.org/10.5281/zenodo.13323591)
+![Offered by: Digital Work at Otto-Friedrich-Universität Bamberg](https://img.shields.io/badge/Offered%20by-%20Digital%20Work%20(Otto--Friedrich--Universit%C3%A4t%20Bamberg)-blue)
+![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-green.svg)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13323591.svg)](https://doi.org/10.5281/zenodo.13323591)
 
 The goals of this tutorial are to
 
