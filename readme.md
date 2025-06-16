@@ -52,7 +52,7 @@ Randomly give numbers to each group (starting with 1), ask to work on the follow
     - [Playbook C6](playbook-C6.md) - FAQ
     - [Playbook C7](playbook-C7.md) - Using CoLRev for interview data
 
-- The maintainers prepare for the next round
+- The maintainers read [playbook M2](playbook-M2.md) to prepare for the next round
 
 ### Round 3 (Maintainers)
 
