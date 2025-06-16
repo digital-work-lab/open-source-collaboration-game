@@ -42,7 +42,7 @@ Randomly give numbers to each group (starting with 1), ask to work on the follow
 
 ### Round 2 (Contributors)
 
-- Each group works in their issue based on the following playbooks (playbooks with 🎓 are sightly more challenging):
+- Each group works in their issue based on the following playbooks (playbooks with 🎓 are slightly more challenging):
 
     - [Playbook C1](playbook-C1.md) - Goals 🎓
     - [Playbook C2](playbook-C2.md) - Getting started
@@ -56,7 +56,7 @@ Randomly give numbers to each group (starting with 1), ask to work on the follow
 
 ### Round 3 (Maintainers)
 
-- Review the contributions assign them to issues (based on [playbook M2](playbook-M2.md))
+- Review the contributions, assign them to issues (based on [playbook M2](playbook-M2.md))
 
 ### Round 2 (Contributors)
 
@@ -66,7 +66,7 @@ https://docs.github.com/de/pull-requests/collaborating-with-pull-requests/workin
 
 Address comments
 
-- Each group works in their issue based on the following playbooks:
+- Each group works on their issue based on the following playbooks:
 
     - [Playbook C1 (round 2)](playbook-C1-r2.md) - Goals
     - [Playbook C2 (round 2)](playbook-C2-r2.md) - Getting started
