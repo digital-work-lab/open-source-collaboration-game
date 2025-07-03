@@ -1,8 +1,12 @@
 # Playbook M2: Reviewing and organizing contributions
 
-- While the contributors are working on their ideas, you make your own plans for the project documentation. In particular, you think that three aspects should be covered prominently: (1) The goals of the project, (2) a guide on how to get started, and (3) an example illustrating how to use CoLRev. Create three issues for these aspects.
+While the contributors are working on their ideas, you make your own plans for the project documentation. In particular, you think that three aspects should be covered prominently: (1) The goals of the project, (2) a guide on how to get started, and (3) an example illustrating how to use CoLRev. Create three issues for these aspects.
+
+**Task**:
+
 - Read the following playbook and prepare to complete the following subsection in front of the class.
-- Remember that you can switch roles after each subsection.
+
+Remember that you can switch roles after each subsection.
 
 ## Your plans
 
@@ -19,7 +23,7 @@
 ![issue link pull-request](figures/issue-link-pull-request.png)
 
 - Go to the pull requests
-- Upon reviewing the changes, ask the group to briefly summarize their work
+- Upon reviewing the changes, ask the group to briefly summarize their work (when using the comment feature, also click on *complete the review* to make sure that the comments are available)
 - Check whether the necessary header information is provided 
 - Assign the pull-requests to the remaining issus 
 
